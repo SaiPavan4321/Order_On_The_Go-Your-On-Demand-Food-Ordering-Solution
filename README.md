@@ -1,4 +1,3 @@
-My link after Deploying the project :https://sbfood.netlify.app/
 OrderOnTheGo - Your On-Demand Food Ordering Solution
 OrderOnTheGo is a full-stack web application that provides a seamless and efficient online food ordering experience. Designed with modern technologies, it allows users to browse restaurants, explore menus, place orders, and track them — all from the comfort of their devices.
 
@@ -45,3 +44,4 @@ JWT (for authentication)
 
 🚀 Key Use Case
 One of the key scenarios is late-night ordering, allowing users to effortlessly discover available food options and complete transactions even during off-peak hours.
+My link after Deploying the project :https://sbfood.netlify.app/
